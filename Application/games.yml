@@ -1,0 +1,14 @@
+games:
+- exe_path: None
+  image_path: ./images/game0.jpeg
+  name: Game 1
+  save_path: None
+- exe_path: None
+  image_path: ./images/game0.jpeg
+  name:  Game 2
+  save_path: None
+server:
+  hostname: ip su serveur ftp
+  password: Mot de passe
+  port: port vers le serveur ftp
+  username: utilisateur ftp
